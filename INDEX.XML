@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pageindex>
+<logo hauteurLogo="61" largeurLogo="50" scrLogo="./COMMUN/IMAGES/SITE/ICONES/LOGO_DACIA.GIF"/>
+<titre ntse="NT : 8631"/>
+<tableau>
+<ligne>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGCRO.GIF" url="./CRO/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGENG.GIF" url="./ENG/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGFIN.GIF" url="./FIN/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGFRA.GIF" url="./FRA/HTM/ENTREE.HTM"/>
+</ligne>
+<ligne>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGGER.GIF" url="./GER/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGGRK.GIF" url="./GRK/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGHEB.GIF" url="./HEB/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGHUN.GIF" url="./HUN/HTM/ENTREE.HTM"/>
+</ligne>
+<ligne>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGIRA.GIF" url="./IRA/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGITA.GIF" url="./ITA/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGJAP.GIF" url="./JAP/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGKOR.GIF" url="./KOR/HTM/ENTREE.HTM"/>
+</ligne>
+<ligne>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGNEL.GIF" url="./NEL/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGPOL.GIF" url="./POL/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGPOR.GIF" url="./POR/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGROM.GIF" url="./ROM/HTM/ENTREE.HTM"/>
+</ligne>
+<ligne>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGRUS.GIF" url="./RUS/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGSLO.GIF" url="./SLO/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGSPA.GIF" url="./SPA/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGSWE.GIF" url="./SWE/HTM/ENTREE.HTM"/>
+</ligne>
+<ligne>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGTCH.GIF" url="./TCH/HTM/ENTREE.HTM"/>
+<langue image="./COMMUN/IMAGES/SITE/DRAPEAUX/FLAGTRK.GIF" url="./TRK/HTM/ENTREE.HTM"/>
+</ligne>
+</tableau>
+</pageindex>

@@ -1,0 +1,76 @@
+<HTML>
+
+<!-- Mirrored from www.renaultftpfr.tecnologia.ws/images/uploads/VISUS/L38/NT 8591/SPA/HTM/ENTREE.HTM by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 21 Sep 2014 20:43:01 GMT -->
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<TITLE>FLUENCE - N.T.8591 
+-  ...&gt; 05/03/2012</TITLE>
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+</HEAD>
+<script type="text/javascript" language="JavaScript1.1">
+			
+	function getAllParams()
+	{
+		var tabParam = new Array();
+		var paramString = window.location.search.substr(1,window.location.search.length);
+
+		if ((paramString != "")&&(paramString != null)) {
+			donnees = paramString.split("&");
+			for (var i=0; i < donnees.length; i++) {
+				position = donnees[i].indexOf("=");
+				variable = donnees[i].substr(0,position);
+				pos = position + 1;
+				valeur = donnees[i].substr(pos,donnees[i].length);
+				while (valeur.search(/\+/) != -1)
+					valeur = valeur.replace(/(^\s*)|(\s*$)/g,'');
+				
+				tabParam[variable]=valeur;
+			}
+		} 
+		return tabParam;
+	}
+			
+	function LocFrames()
+	{
+		var tableParams = parent.getAllParams();
+		var typLiaOrg 	= tableParams["type"];
+		var codLiaOrg 	= tableParams["code"];
+		if( (typLiaOrg != null) && (typLiaOrg!="") )
+		{
+			if(typLiaOrg == "L"){
+				parent.titre.location.href="CLTITRE.html" + window.location.search;
+			}
+			 else{
+				 parent.titre.location.href="CTITRE.html" + window.location.search;
+			}
+			if ( codLiaOrg =="Erreur")
+			{
+				parent.doc.location.href="../DOCUMENT/ERREURCODEORGLIA.pdf";
+			}
+		}
+		else
+		{
+			parent.doc.location.href="../DOCUMENT/CLAUSLEG.pdf";
+		}
+	}
+			
+</script>
+<FRAMESET rows="*" cols="216,747">
+<FRAMESET cols="*" rows="141,510">
+<FRAME scrolling="AUTO" bordercolor="#003366" name="titre" src="CTITRE.html">
+<FRAME scrolling="AUTO" bordercolor="#003366" name="org" src="CODE.html">
+</FRAMESET>
+<FRAMESET cols="*" rows="150,543">
+<FRAMESET onLoad="LocFrames()" ROWS="50%,50%">
+<FRAME src="MENU.html" name="menu" bordercolor="#003366" scrolling="AUTO">
+<FRAME src="../../COMMUN/HTM/BLANK.html" name="nav" bordercolor="#003366" scrolling="AUTO">
+</FRAMESET>
+<FRAME src="../../COMMUN/HTM/BLANK.html" bordercolor="#003366" name="doc">
+</FRAMESET>
+</FRAMESET>
+<NOFRAMES>
+<BODY bgcolor="#FFFFFF"></BODY>
+</NOFRAMES>
+
+<!-- Mirrored from www.renaultftpfr.tecnologia.ws/images/uploads/VISUS/L38/NT 8591/SPA/HTM/ENTREE.HTM by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 21 Sep 2014 20:43:05 GMT -->
+</HTML>
